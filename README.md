@@ -28,4 +28,4 @@ To install this project from Git, follow these steps:
 
 1. Open your terminal or command prompt.
 2. Navigate to the directory where you want to clone the repository.
-3. Run the following command: git clone https://github.com/priyanshum143/CPU-Scheduling-Simulator.git
+3. Run the following command: git clone https://github.com/prabhjotsingh2003/CPU-Scheduling-Simulator.git
